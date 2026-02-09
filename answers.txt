@@ -12,4 +12,4 @@ Answer: Merging combines two branches by creating a new "merge commit" that ties
 
 Q4: What are you looking forward to this semester?
 
-Answer: I'm looking forward to learning data science techniques, working with real datasets, and gaining practical skills in data analysis and visualization that I can apply to future projects and research.
+Answer: I'm looking forward to learning data science techniques, working with real datasets, and gaining practical skills in data analysis and visualization that I can apply to intershps and research.
